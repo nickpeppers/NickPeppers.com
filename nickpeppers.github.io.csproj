@@ -40,6 +40,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="hitcentsgamespost.html" />
     <Content Include="githubpagespost.html" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
@@ -48,6 +49,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="img\about-bg.jpg" />
     <Content Include="img\contact-bg.jpg" />
+    <Content Include="img\epic2-bg.jpg" />
     <Content Include="img\home-bg.jpg" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
