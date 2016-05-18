@@ -50,6 +50,7 @@
     <Content Include="img\about-bg.jpg" />
     <Content Include="img\contact-bg.jpg" />
     <Content Include="img\epic2-bg.jpg" />
+    <Content Include="img\github-bg.jpg" />
     <Content Include="img\home-bg.jpg" />
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
