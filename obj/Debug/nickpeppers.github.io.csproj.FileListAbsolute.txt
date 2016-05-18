@@ -1,0 +1,6 @@
+C:\Users\smari\Documents\Code\nickpeppers.github.io\bin\WebApplication.dll.config
+C:\Users\smari\Documents\Code\nickpeppers.github.io\bin\WebApplication.dll
+C:\Users\smari\Documents\Code\nickpeppers.github.io\bin\WebApplication.pdb
+C:\Users\smari\Documents\Code\nickpeppers.github.io\obj\Debug\nickpeppers.github.io.csprojResolveAssemblyReference.cache
+C:\Users\smari\Documents\Code\nickpeppers.github.io\obj\Debug\WebApplication.dll
+C:\Users\smari\Documents\Code\nickpeppers.github.io\obj\Debug\WebApplication.pdb
