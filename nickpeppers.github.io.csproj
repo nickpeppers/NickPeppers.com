@@ -40,6 +40,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="img\xamarinpost-bg.jpg" />
+    <Content Include="xamarinfreepost.html" />
     <Content Include="hitcentsgamespost.html" />
     <Content Include="githubpagespost.html" />
     <Content Include="Content\bootstrap-theme.css" />
