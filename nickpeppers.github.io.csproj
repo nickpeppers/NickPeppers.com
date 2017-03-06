@@ -40,6 +40,8 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="productivity.html" />
+    <Content Include="img\productivity-bg.jpg" />
     <Content Include="img\xamarinpost-bg.jpg" />
     <Content Include="xamarinfreepost.html" />
     <Content Include="hitcentsgamespost.html" />
