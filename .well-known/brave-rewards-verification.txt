@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: nickpeppers.github.io
+Token: 878599e1af275b11a6851f63abd376ff06efbeb7c57b0e4cb12c005a7028056a
